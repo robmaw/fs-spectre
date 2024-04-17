@@ -5,6 +5,7 @@
 [Spectre.Console](https://spectreconsole.net/) with F# style.
 
 FsSpectre is a small library that extends Spectre.Console and allow to write beautiful console applications in a declarative and more F#-friendly way.
+
 It leverages [Computation Expressions](https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/computation-expressions) to create the widgets in a declarative style.
 
 ## Add package
